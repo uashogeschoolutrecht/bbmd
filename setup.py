@@ -40,7 +40,7 @@ setup(
         'numpy>=1.12.0',
         'scipy>=0.19.0',
         'pystan',
-        'matplotlib>=1.4.3, <1.5',
+        'matplotlib',
         'python-docx>=0.8.6',
         'pandas>=0.19.2',
         'openpyxl>=2.4.5',
